@@ -1,0 +1,16 @@
+{
+    "kind": "program",
+    "metadata": {
+        "formatVersion": 4
+    },
+    "packages": [],
+    "statements": [
+        {
+            "kind": "right",
+            "value": {
+                "kind": "integerLiteral",
+                "value": 2
+            }
+        }
+    ]
+}

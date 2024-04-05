@@ -1,0 +1,36 @@
+{
+    "code": "profile1",
+    "formatVersion": 1,
+    "status": {
+        "scenarioStatuses": {
+            "topicOverviewApp": {
+                "viewed": true,
+                "completed": true
+            },
+            "topicOverviewProgram": {
+                "viewed": true,
+                "completed": true
+            },
+            "topicOverviewLanguage": {
+                "viewed": true,
+                "completed": true
+            },
+            "topicOverviewGrid": {
+                "viewed": true,
+                "completed": true
+            },
+            "topicOverviewCourse": {
+                "viewed": true,
+                "completed": true
+            },
+            "topicCursorMoveIntroRight": {
+                "viewed": true,
+                "completed": true
+            },
+            "topicCursorMoveIntroLeft": {
+                "viewed": true,
+                "completed": true
+            }
+        }
+    }
+}
